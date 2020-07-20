@@ -2,9 +2,12 @@
 | ------------- | ------------- |
 
 # Joint NYU-POLIMI project for the CAPSTONE course
+This project's aim is to analyse the social media dynamics around Milan and New York Fashion Weeks. The results of this research can be found in the website.
 
+## Website
+The project's website can be found [here](https://datalife2020.github.io/).
 
-# Information about the data
+## Information about the data
 The data used for this project have been collected from Instagram and Twitter. 
 * [Link](https://drive.google.com/drive/folders/1yVfXIoS-C8RRAoTugVGMCeAYtcv9XQKD?usp=sharing) to Instagram data
 * [Link](https://drive.google.com/drive/folders/1tczytEfYoBedmJFdxwwnCpdwtclH5OFu?usp=sharing) to Twitter data
